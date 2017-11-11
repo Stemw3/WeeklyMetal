@@ -1,2 +1,2 @@
-botanswerbot
+WeeklyMetal
 ============
